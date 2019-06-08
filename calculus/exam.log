@@ -1,15 +1,15 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.31)  8 JUN 2019 09:00
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.31)  9 JUN 2019 00:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/moekiwisama/Desktop/calculus/exam
-(/Users/moekiwisama/Desktop/calculus/exam.tex
+**/Users/moekiwisama/git/Exam/calculus/exam
+(/Users/moekiwisama/git/Exam/calculus/exam.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -407,41 +407,125 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen182
 \Gm@layoutvoffset=\dimen183
 \Gm@dimlist=\toks16
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count276
+\calc@Bcount=\count277
+\calc@Adimen=\dimen184
+\calc@Bdimen=\dimen185
+\calc@Askip=\skip61
+\calc@Bskip=\skip62
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count278
+\calc@Cskip=\skip63
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip64
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen186
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen187
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count279
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count280
+\leftroot@=\count281
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count282
+\DOTSCASE@=\count283
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+\big@size=\dimen188
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count284
+\c@MaxMatrixCols=\count285
+\dotsspace@=\muskip17
+\c@parentequation=\count286
+\dspbrk@lvl=\count287
+\tag@help=\toks18
+\row@=\count288
+\column@=\count289
+\maxfields@=\count290
+\andhelp@=\toks19
+\eqnshift@=\dimen189
+\alignsep@=\dimen190
+\tagshift@=\dimen191
+\tagwidth@=\dimen192
+\totwidth@=\dimen193
+\lineht@=\dimen194
+\@envbody=\toks20
+\multlinegap=\skip65
+\multlinetaggap=\skip66
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count291
+\l_MT_multwidth_dim=\dimen195
+\origjot=\skip67
+\l_MT_shortvdotswithinadjustabove_dim=\dimen196
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen197
+\l_MT_above_intertext_sep=\dimen198
+\l_MT_below_intertext_sep=\dimen199
+\l_MT_above_shortintertext_sep=\dimen256
+\l_MT_below_shortintertext_sep=\dimen257
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/tasks/tasks.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/eepic/epic.sty
 Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
-\@@multicnt=\count276
-\d@lta=\count277
-\@delta=\dimen184
-\@@delta=\dimen185
-\@gridcnt=\count278
-\@joinkind=\count279
-\@dotgap=\dimen186
-\@ddotgap=\dimen187
-\@x@diff=\count280
-\@y@diff=\count281
-\x@diff=\dimen188
-\y@diff=\dimen189
-\@dotbox=\box56
-\num@segments=\count282
-\num@segmentsi=\count283
+\@@multicnt=\count292
+\d@lta=\count293
+\@delta=\dimen258
+\@@delta=\dimen259
+\@gridcnt=\count294
+\@joinkind=\count295
+\@dotgap=\dimen260
+\@ddotgap=\dimen261
+\@x@diff=\count296
+\@y@diff=\count297
+\x@diff=\dimen262
+\y@diff=\dimen263
+\@dotbox=\box58
+\num@segments=\count298
+\num@segmentsi=\count299
 \@datafile=\read2
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/cntformats/cntformats.sty
 Package: cntformats 2014/07/20 v0.7 A different way to read counters. (CN)
  (/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count284
+\etb@tempcnta=\count300
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/cnltx/cnltx-base.sty
 Package: cnltx-base 2015/08/17 v0.13 LaTeX tools and documenting facilities (CN)
  (/usr/local/texlive/2019/texmf-dist/tex/latex/pgfopts/pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
  (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks17
-\pgfkeys@temptoks=\toks18
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
  (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks19
+\pgfkeys@tmptoks=\toks24
 )))
-\pgfopts@list@add@a@toks=\toks20
-\pgfopts@list@add@b@toks=\toks21
+\pgfopts@list@add@a@toks=\toks25
+\pgfopts@list@add@b@toks=\toks26
 ) (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 ) (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
@@ -458,12 +542,12 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
 )
-\c@cnltx@tmpa=\count285
-\c@cnltx@tmpb=\count286
-\c@cnltx@tmpc=\count287
-\cnltx@tmpa@length=\skip61
-\cnltx@tmpb@length=\skip62
-\cnltx@tmpc@length=\skip63
+\c@cnltx@tmpa=\count301
+\c@cnltx@tmpb=\count302
+\c@cnltx@tmpc=\count303
+\cnltx@tmpa@length=\skip68
+\cnltx@tmpb@length=\skip69
+\cnltx@tmpc@length=\skip70
  (/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
  (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -485,46 +569,50 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))) (/usr/local/texlive/2019/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
-\@envbody=\toks22
 )
 Package: tasks 2016/08/13 v0.12 Horizontalcolumnedlists (CN)
-\l__tasks_depth_int=\count288
-\g__tasks_int=\count289
-\g__tasks_total_items_int=\count290
-\l__tasks_columns_int=\count291
-\l__tasks_rows_int=\count292
-\g__tasks_current_col_num_int=\count293
-\g__tasks_current_row_num_int=\count294
-\l__tasks_item_columns_int=\count295
-\l__tasks_item_indent_dim=\dimen190
-\l__tasks_item_default_indent_dim=\dimen191
-\l__tasks_item_width_dim=\dimen192
-\l__tasks_label_width_dim=\dimen193
-\l__tasks_label_default_width_dim=\dimen194
-\l__tasks_label_offset_dim=\dimen195
-\l__tasks_label_default_offset_dim=\dimen196
-\l__tasks_column_sep_dim=\dimen197
-\l__tasks_after_item_skip=\skip64
-\l__tasks_custom_after_item_skip=\skip65
-\l__tasks_before_list_skip=\skip66
-\l__tasks_after_list_skip=\skip67
-\l__tasks_item_coffin=\box57
-\l__tasks_label_coffin=\box58
-\c@task=\count296
-\l__tasks_tmpa_int=\count297
-\l__tasks_tmpb_int=\count298
-\l__tasks_tmpa_coffin=\box59
+\l__tasks_depth_int=\count304
+\g__tasks_int=\count305
+\g__tasks_total_items_int=\count306
+\l__tasks_columns_int=\count307
+\l__tasks_rows_int=\count308
+\g__tasks_current_col_num_int=\count309
+\g__tasks_current_row_num_int=\count310
+\l__tasks_item_columns_int=\count311
+\l__tasks_item_indent_dim=\dimen264
+\l__tasks_item_default_indent_dim=\dimen265
+\l__tasks_item_width_dim=\dimen266
+\l__tasks_label_width_dim=\dimen267
+\l__tasks_label_default_width_dim=\dimen268
+\l__tasks_label_offset_dim=\dimen269
+\l__tasks_label_default_offset_dim=\dimen270
+\l__tasks_column_sep_dim=\dimen271
+\l__tasks_after_item_skip=\skip71
+\l__tasks_custom_after_item_skip=\skip72
+\l__tasks_before_list_skip=\skip73
+\l__tasks_after_list_skip=\skip74
+\l__tasks_item_coffin=\box59
+\l__tasks_label_coffin=\box60
+\c@task=\count312
+\l__tasks_tmpa_int=\count313
+\l__tasks_tmpb_int=\count314
+\l__tasks_tmpa_coffin=\box61
 
 Package xtemplate Info: Declaring object type 'tasks' taking 3 argument(s) on
 (xtemplate)             line 379.
 
-\l__tasks_choice_width_dim=\dimen198
-\l__tasks_choice_linewidth_dim=\dimen199
-\l__tasks_choice_checkwidth_dim=\dimen256
-\l__tasks_choice_raise_dim=\dimen257
+\l__tasks_choice_width_dim=\dimen272
+\l__tasks_choice_linewidth_dim=\dimen273
+\l__tasks_choice_checkwidth_dim=\dimen274
+\l__tasks_choice_raise_dim=\dimen275
  (/usr/local/texlive/2019/texmf-dist/tex/latex/tasks/tasks.cfg
 File: tasks.cfg 2016/08/13 v0.12 tasks instances
-)) (./exam.aux)
+))
+
+LaTeX Warning: Unused global option(s):
+    [a3paper].
+
+(./exam.aux)
 \openout1 = `exam.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -562,7 +650,6 @@ LaTeX Font Info:    Redeclaring math accent \check on input line 20.
 LaTeX Font Info:    Redeclaring math accent \hat on input line 20.
 LaTeX Font Info:    Redeclaring math accent \dot on input line 20.
 LaTeX Font Info:    Redeclaring math accent \mathring on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 20.
 LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 20.
 LaTeX Font Info:    Redeclaring math symbol \Delta on input line 20.
 LaTeX Font Info:    Redeclaring math symbol \Theta on input line 20.
@@ -607,27 +694,27 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
 * driver: xetex
-* paper: a4paper
+* paper: a3paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(59.74988pt, 478.00812pt, 59.74988pt)
-* v-part:(T,H,B)=(67.60269pt, 676.04005pt, 101.4041pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=478.00812pt
-* \textheight=676.04005pt
-* \oddsidemargin=-12.52011pt
-* \evensidemargin=-12.52011pt
-* \topmargin=-41.6673pt
+* h-part:(L,W,R)=(84.50339pt, 676.04005pt, 84.5034pt)
+* v-part:(T,H,B)=(95.5998pt, 956.01624pt, 143.39972pt)
+* \paperwidth=845.04684pt
+* \paperheight=1195.01575pt
+* \textwidth=676.04005pt
+* \textheight=956.01624pt
+* \oddsidemargin=12.2334pt
+* \evensidemargin=12.2334pt
+* \topmargin=-13.6702pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=50.0pt
+* \marginparwidth=44.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -637,57 +724,83 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 21.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 21.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 21.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+)
+\Gin@req@height=\dimen276
+\Gin@req@width=\dimen277
+)
 
 LaTeX Warning: No \author given.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 32.
 
-Overfull \hbox (0.3066pt too wide) in paragraph at lines 32--32
-|\TU/lmr/m/n/10.95 A. 
+Overfull \hbox (0.24pt too wide) in paragraph at lines 32--32
+|\TU/lmr/m/n/12 D. 
  []
 
 
-Overfull \hbox (0.4599pt too wide) in paragraph at lines 32--32
-|\TU/lmr/m/n/10.95 D. 
+Overfull \hbox (0.24pt too wide) in paragraph at lines 40--40
+|\TU/lmr/m/n/12 D. 
  []
 
 
-Overfull \hbox (0.3066pt too wide) in paragraph at lines 40--40
-|\TU/lmr/m/n/10.95 A. 
+Overfull \hbox (0.24pt too wide) in paragraph at lines 48--48
+|\TU/lmr/m/n/12 D. 
  []
 
 
-Overfull \hbox (0.4599pt too wide) in paragraph at lines 40--40
-|\TU/lmr/m/n/10.95 D. 
+Overfull \hbox (0.24pt too wide) in paragraph at lines 56--56
+|\TU/lmr/m/n/12 D. 
  []
 
 
-Overfull \hbox (0.3066pt too wide) in paragraph at lines 48--48
-|\TU/lmr/m/n/10.95 A. 
+Overfull \hbox (0.24pt too wide) in paragraph at lines 68--68
+|\TU/lmr/m/n/12 D. 
  []
 
 
-Overfull \hbox (0.4599pt too wide) in paragraph at lines 48--48
-|\TU/lmr/m/n/10.95 D. 
+Overfull \hbox (0.24pt too wide) in paragraph at lines 76--76
+|\TU/lmr/m/n/12 D. 
+ []
+
+
+Overfull \hbox (0.24pt too wide) in paragraph at lines 84--84
+|\TU/lmr/m/n/12 D. 
+ []
+
+
+Overfull \hbox (0.24pt too wide) in paragraph at lines 92--92
+|\TU/lmr/m/n/12 D. 
+ []
+
+
+Overfull \hbox (0.24pt too wide) in paragraph at lines 100--100
+|\TU/lmr/m/n/12 D. 
+ []
+
+
+Overfull \hbox (0.24pt too wide) in paragraph at lines 107--107
+|\TU/lmr/m/n/12 D. 
  []
 
 [1
 
 ] (./exam.aux) ) 
 Here is how much of TeX's memory you used:
- 17983 strings out of 492916
- 405831 string characters out of 6133345
- 480670 words of memory out of 5000000
- 21877 multiletter control sequences out of 15000+600000
- 536208 words of font info for 51 fonts, out of 8000000 for 9000
+ 19354 strings out of 492916
+ 425923 string characters out of 6133345
+ 518445 words of memory out of 5000000
+ 23208 multiletter control sequences out of 15000+600000
+ 537338 words of font info for 57 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 61i,6n,73p,863b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 61i,10n,73p,864b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on exam.pdf (1 page).
