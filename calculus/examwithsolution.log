@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.31)  15 JUN 2019 14:29
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.31)  14 JUN 2019 17:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/moekiwisama/git/Exam/calculus/exam
-(/Users/moekiwisama/git/Exam/calculus/exam.tex
+**/Users/moekiwisama/git/Exam/calculus/examwithsolution
+(/Users/moekiwisama/git/Exam/calculus/examwithsolution.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -612,8 +612,8 @@ File: tasks.cfg 2016/08/13 v0.12 tasks instances
 LaTeX Warning: Unused global option(s):
     [a3paper].
 
-No file exam.aux.
-\openout1 = `exam.aux'.
+(./examwithsolution.aux)
+\openout1 = `examwithsolution.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
@@ -631,7 +631,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
-ABD: EverySelectfont initializing macros
+ ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 20.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
@@ -762,158 +762,163 @@ Overfull \hbox (0.24pt too wide) in paragraph at lines 49--49
  []
 
 
-Overfull \hbox (0.24pt too wide) in paragraph at lines 57--57
+Underfull \hbox (badness 10000) in paragraph at lines 50--63
+
+ []
+
+
+Overfull \hbox (0.24pt too wide) in paragraph at lines 63--63
 |\TU/lmr/m/n/12 D. 
  []
 
 
-Overfull \hbox (0.24pt too wide) in paragraph at lines 69--69
+Overfull \hbox (0.24pt too wide) in paragraph at lines 75--75
 |\TU/lmr/m/n/12 D. 
  []
 
 
-Overfull \hbox (0.24pt too wide) in paragraph at lines 77--77
+Overfull \hbox (0.24pt too wide) in paragraph at lines 83--83
 |\TU/lmr/m/n/12 D. 
  []
 
 
-Overfull \hbox (0.24pt too wide) in paragraph at lines 85--85
+Overfull \hbox (0.24pt too wide) in paragraph at lines 91--91
 |\TU/lmr/m/n/12 D. 
  []
 
 
-Overfull \hbox (0.24pt too wide) in paragraph at lines 93--93
+Overfull \hbox (0.24pt too wide) in paragraph at lines 99--99
 |\TU/lmr/m/n/12 D. 
  []
 
 
-Overfull \hbox (0.24pt too wide) in paragraph at lines 101--101
+Overfull \hbox (0.24pt too wide) in paragraph at lines 107--107
 |\TU/lmr/m/n/12 D. 
  []
 
 
-Overfull \hbox (0.24pt too wide) in paragraph at lines 108--108
+Overfull \hbox (0.24pt too wide) in paragraph at lines 114--114
 |\TU/lmr/m/n/12 D. 
  []
 
 [1
 
 ]
-Overfull \hbox (0.24pt too wide) in paragraph at lines 117--117
+Overfull \hbox (0.24pt too wide) in paragraph at lines 123--123
 |\TU/lmr/m/n/12 D. 
  []
 
 Missing character: There is no 则 in font [lmroman12-regular]:mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--165
+Underfull \hbox (badness 10000) in paragraph at lines 124--171
 
  []
 
 [2
 
-] (./exam.aux) ) 
+] (./examwithsolution.aux) ) 
 Here is how much of TeX's memory you used:
- 19372 strings out of 492916
- 427153 string characters out of 6133345
- 518445 words of memory out of 5000000
+ 19374 strings out of 492916
+ 427279 string characters out of 6133345
+ 519469 words of memory out of 5000000
  23228 multiletter control sequences out of 15000+600000
  537338 words of font info for 57 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 61i,14n,73p,864b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 61i,14n,73p,876b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on exam.pdf (2 pages).
+Output written on examwithsolution.pdf (2 pages).
