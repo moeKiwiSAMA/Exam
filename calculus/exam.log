@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.31)  15 JUN 2019 14:29
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.31)  16 JUN 2019 13:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -612,7 +612,7 @@ File: tasks.cfg 2016/08/13 v0.12 tasks instances
 LaTeX Warning: Unused global option(s):
     [a3paper].
 
-No file exam.aux.
+(./exam.aux)
 \openout1 = `exam.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -631,7 +631,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
-ABD: EverySelectfont initializing macros
+ ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 20.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
@@ -908,8 +908,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 118--165
 
 ] (./exam.aux) ) 
 Here is how much of TeX's memory you used:
- 19372 strings out of 492916
- 427153 string characters out of 6133345
+ 19374 strings out of 492916
+ 427171 string characters out of 6133345
  518445 words of memory out of 5000000
  23228 multiletter control sequences out of 15000+600000
  537338 words of font info for 57 fonts, out of 8000000 for 9000
